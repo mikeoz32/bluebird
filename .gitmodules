@@ -1,0 +1,3 @@
+[submodule "vendor/fief"]
+	path = vendor/fief
+	url = https://github.com/fief-dev/fief.git
